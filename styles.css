@@ -37,6 +37,7 @@
     background-color: #333;
     padding: 10px 30px;
     margin-bottom: 25px;
+    border-radius: 20px;
     background-origin: 20px;
 }
 
@@ -92,4 +93,13 @@
     overflow: hidden;
     margin-bottom: 30px;
     background-color: #333;
+}
+
+
+.game__new {
+    border: none;
+    background-color: #09251e;
+    color: aliceblue;
+    padding: 10px 20px;
+    cursor: pointer;
 }
