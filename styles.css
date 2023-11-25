@@ -13,7 +13,7 @@
 
 .game{
     overflow: hidden;
-    background-image: url(./hot-air-balloons-cappadocia-golden-hour-rock-formations-4480x2520-1588.jpg);
+    background-image: url(./background.jpg);
     background-size: cover;
     height: 100vh;
 }
@@ -114,11 +114,12 @@
 }
 
 .circle {
-    background-image: url(./hot-air-balloon-svgrepo-com.svg);
+    background-image: url(./hotairballoon.svg);
     position: absolute;
     background-size: cover;
     cursor: pointer;
 }
+
 h3{
     color: black;
     font-size: 24px;
